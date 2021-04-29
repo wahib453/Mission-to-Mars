@@ -1,3 +1,9 @@
+# ignore the following files
+Alice_inWinderland.ipynb
+Alice_inWonderland.ipynb
+practice.ipynb
+practice2.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
