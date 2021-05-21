@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+p {
+    color: green;
+}
+li {
+    list-style-type: square;
+}
+li.special{
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+}
